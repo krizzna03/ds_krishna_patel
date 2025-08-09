@@ -12,7 +12,7 @@ We analyzed profitability, trade volume, and efficiency metrics, and identified 
 ds_<your_name>/
 ├── notebook_1.ipynb       # Main analysis notebook (Google Colab version)
 ├── csv_files/             # Contains raw CSV files used in the analysis
-│   ├── historical_data.csv
+│   ├── historical_data.csv #Google Drive: [https://drive.google.com/file/d/1nf21YgbJfPAE6pQH73KNiKrW5jg-6iqn/view?usp=sharing]
 │   └── fear_greed_index.csv
 ├── outputs/               # Contains generated plots and visualizations
 │   ├── output1.png
@@ -32,4 +32,4 @@ ds_<your_name>/
 https://colab.research.google.com/drive/1pZt-mgAQ1utpUq4IgYu88mse7okbJ0YV?usp=sharing
 
 ## GitHub Repository
-[Insert your GitHub repository link here]
+https://github.com/krizzna03/ds_krishna_patel
